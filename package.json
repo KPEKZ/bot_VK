@@ -1,0 +1,27 @@
+{
+  "name": "bot_VK",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KPEKZ/bot_VK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KPEKZ/bot_VK/issues"
+  },
+  "homepage": "https://github.com/KPEKZ/bot_VK#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "botact": "^2.4.2",
+    "easyvk": "^2.6.0",
+    "express": "^4.17.1",
+    "node-vk-bot-api": "^3.3.3"
+  }
+}
